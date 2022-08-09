@@ -2,7 +2,7 @@
   "name": "nftshowcase",
   "version": "0.1.0",
   "private": true,
-  "Homepage": "https://github.com/sdavis525/NFT-Showcase",
+  "Homepage": "https://sdavis525.github.io/NFT-Showcase",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
